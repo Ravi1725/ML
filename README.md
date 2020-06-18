@@ -30,4 +30,4 @@ Also add model.json file in folder.
 For Execution of Program:
 1.Training program--python3 training.py
 
-2.Run program--python3 run.py
+2.Run program--python3 run.py -q="question Statement?"
